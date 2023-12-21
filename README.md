@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+### Developed By : Krithick Vivekananda
+### Reg. No. : 212223240075
 
 # Aim : 
 
